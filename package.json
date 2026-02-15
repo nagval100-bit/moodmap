@@ -1,0 +1,1 @@
+{\n  "name": "moodmap",\n  "private": true,\n  "workspaces": [\n    "frontend",\n    "functions"\n  ]\n}
