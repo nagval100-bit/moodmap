@@ -1,0 +1,14 @@
+# Node.js
+node_modules/
+package-lock.json
+
+# Firebase
+*.firebase/\*
+firebase-debug.log
+
+# Environment Variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
